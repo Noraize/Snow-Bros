@@ -34,7 +34,7 @@ Welcome to SnowBros, a 2D game replica created as a university course assignment
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/snowbros-2d-game.git
+   https://github.com/your-username/snowbros-2d-game.git
    ```
 
 2. Open the project in Unity.
