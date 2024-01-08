@@ -4,9 +4,9 @@ Welcome to SnowBros, a 2D game replica created as a university course assignment
 
 ## Features
 
-- **Start Screen**: Begin your journey from the start screen, featuring a "Start" button that directs you to the icy levels.
+- **Start Screen**: Begin your journey from the start screen, featuring a "Start" button that directs you to the first level.
 
-- **Platformer Gameplay**: Navigate through icy platforms as the main character, armed with snowballs to fend off relentless enemies.
+- **Platformer Gameplay**: Navigate through the jungle as the main character, armed with snowballs to fend off relentless enemies.
 
 - **Snowball Attacks**: Engage in strategic snowball-throwing to eliminate pursuing enemies. Timing and precision are key to overcoming challenges.
 
