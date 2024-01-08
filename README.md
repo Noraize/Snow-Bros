@@ -1,12 +1,16 @@
 # SnowBros 2D Game - University Course Assignment
 
-Welcome to SnowBros, a 2D game replica created as a university course assignment using Unity. This project showcases the implementation of fundamental game development concepts, including character movement, attacks, and enemy AI. Dive into this frosty adventure and explore the challenges inspired by the classic Snow Bros game.
+Welcome to SnowBros, a 2D game replica created as a university course assignment using Unity. This project showcases the implementation of fundamental game development concepts, including character movement, attacks, and enemy AI. Dive into this jungly adventure and explore the challenges inspired by the classic Snow Bros game.
 
 ## Features
 
 - **Start Screen**: Begin your journey from the start screen, featuring a "Start" button that directs you to the first level.
 
+<img width="1483" alt="Start Screen" src="https://github.com/Noraize/Snow-Bros/assets/67844202/dc0870b4-7704-452f-a59d-f11a8130f22d">
+
 - **Platformer Gameplay**: Navigate through the jungle as the main character, armed with snowballs to fend off relentless enemies.
+
+<img width="1473" alt="Screenshot 2024-01-08 at 7 53 57 PM" src="https://github.com/Noraize/Snow-Bros/assets/67844202/2a5ff8c6-8f41-43f7-a417-ea48bf2b8d21">
 
 - **Snowball Attacks**: Engage in strategic snowball-throwing to eliminate pursuing enemies. Timing and precision are key to overcoming challenges.
 
